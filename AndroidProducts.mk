@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2018-2021 PixysOS
+# Copyright (C) 2018-2021 derpOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_Spacewar.mk
+    $(LOCAL_DIR)/derp_Spacewar.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_Spacewar-eng \
-    pixys_Spacewar-userdebug \
-    pixys_Spacewar-user
+    derp_Spacewar-eng \
+    derp_Spacewar-userdebug \
+    derp_Spacewar-user
